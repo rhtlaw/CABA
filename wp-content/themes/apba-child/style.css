@@ -1,0 +1,15 @@
+/*
+Theme Name:   APBA (Hello Elementor Child)
+Theme URI:    https://www.caba.org.sg/
+Description:  WordPress + Elementor (free) recreation of the ASEAN Plus Business Alliance (APBA), formerly China-ASEAN Business Alliance (CABA), website. Child theme of Hello Elementor. Header and footer are managed through WordPress menus and the Customizer; page content is built with free Elementor widgets. Does not require Elementor Pro.
+Author:       APBA
+Template:     hello-elementor
+Version:      1.0.0
+Requires at least: 6.3
+Requires PHP: 7.4
+License:      GNU General Public License v2 or later
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  apba
+*/
+
+/* All styles live in assets/css/main.css so this file stays a header only. */
